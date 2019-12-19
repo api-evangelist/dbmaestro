@@ -1,0 +1,81 @@
+{
+    "name": "DBmaestro",
+    "description": "We provide Database Enforced Change Management solution that enables you full control over database development processes and enhance database DevOps performance.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19924-dbmaestro.jpg",
+    "tags": [
+        "api service provider",
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dbmaestro\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DBmaestro",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19924-dbmaestro.jpg",
+            "humanURL": "http:\/\/www.dbmaestro.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dbmaestro-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dbmaestro-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.dbmaestro.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.dbmaestro.com\/subscribe\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dbmaestro"
+        },
+        {
+            "type": "Email",
+            "url": "sales@dbmaestro.com"
+        },
+        {
+            "type": "Email",
+            "url": "emea@dbmaestro.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@dbmaestro.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@dbmaestro.com"
+        },
+        {
+            "type": "Email",
+            "url": "royl@dbmaestro.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/DBMaestroDev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DBmaestro"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.dbmaestro.com\/"
+        }
+    ]
+}
